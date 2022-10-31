@@ -29,20 +29,20 @@
 			LIMPAR
 		</a>
 		<br><br>
-		<button onclick="windowy.location.href=´https://www.youtube.com/´">
+		<button onclick="windows.location.href=´https://www.youtube.com/´">
 			Youtube
 		</button>
-		<input type="submit" name="youtube" onclick="windowy.location.href=´https://www.youtube.com/´">
+		<input type="submit" name="youtube" onclick="windows.location.href=´https://www.youtube.com/´">
 		<br><br>
-		<button onclick="windowy.location.reload()">
+		<button onclick="windows.location.reload()">
 			Atualizar página
 		</button>
 		&nbsp;&nbsp;&nbsp;
-		<button onclick="windowy.print()">
+		<button onclick="windows.print()">
 			Imprimir
 		</button>
 		&nbsp;&nbsp;&nbsp;
-		<button onclick="windowy.history.back()">
+		<button onclick="windows.history.back()">
 			Voltar
 		</button>
 		<br><br>
